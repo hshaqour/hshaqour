@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hussain</h1>
 <h3 align="center">A software developer with an accounting background, currently pursuing a Master's in Computer Science @ CU Boulder 💻</h3>
 
-- 🔭 I’m currently working on [BudgetTracker](https://github.com/hshaqour/budget_tracker) (In progress) and revisiting my [Social Network](https://github.com/hshaqour/Social-Network) project to add new features and improve front end
+- 🔭 I’m currently refining my [Social Network](https://github.com/hshaqour/Social-Network) and [Mail](https://github.com/hshaqour/Mail) projects. Once polished, I'll resume building [BudgetTracker](https://github.com/hshaqour/budget_tracker) (In progress)
 
 - 🌱 Learning **Data Structures & Algorithms**, building strong fundamentals.
 
