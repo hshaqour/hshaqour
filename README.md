@@ -17,21 +17,37 @@
 
 <h3 align="left">🌟 Featured Projects</h3>
 
-- 📬 **[Mail](https://github.com/hshaqour/Mail)**  
-  A fully deployed email client simulation built with Django.  
-  🧩 Features: Compose, reply, archive, and navigate mailboxes with dynamic routing.  
-  🚀 Deployed on Render using Gunicorn and Whitenoise.  
-  🔗 [Live Demo](https://mail-85xu.onrender.com) (Live)
+## 📬 [Mail](https://github.com/hshaqour/Mail) — Full-Stack Email Client Simulation
 
-- 🌐 **[Social Network](https://github.com/hshaqour/Social-Network)**  
-  A Twitter/X-style social media platform with user posts, likes, followers, and pagination.  
-  🛠️ Built with Django, vanilla JS, and Bootstrap.  
-  🔧 Finalizing features and preparing for deployment.
+[**Live Demo → mail-85xu.onrender.com**](https://mail-85xu.onrender.com)
 
-- 💸 **[BudgetTracker](https://github.com/hshaqour/budget_tracker)**  
-  A personal finance tracker designed to visualize income and expenses over time.  
-  📊 Currently designing the database model and UI for daily use.  
-  🏗️ Built with Django (In development)
+Mail is a deployed, full-stack Django web application that simulates a real-world email client. Users can register, log in, send, receive, reply to, and archive emails—all from a clean, interactive UI. The app features onboarding with a welcome email, dynamic routing, and instant feedback with flash messages.
+
+**Features:**
+- User registration & login (with a welcome email on signup)
+- Compose, send, reply, archive, and unarchive emails
+- Professional, mobile-friendly Bootstrap UI
+- Flash messages for user feedback (“Email sent!”, “Email archived!”)
+- Deployed on Render with Gunicorn and Whitenoise
+
+**Tech Stack:** Django, HTML, CSS, Bootstrap, JavaScript (vanilla), Render, Gunicorn, Whitenoise
+
+**Screenshots:**  
+<!-- Add your images like below when ready -->
+<!-- ![Inbox Screenshot](screenshots/inbox.png) -->
+<!-- ![Reading Email Screenshot](screenshots/read-email.png) -->
+
+---
+
+## 🌐 [Social Network](https://github.com/hshaqour/Social-Network)
+A Twitter/X-style social platform with user posts, likes, followers, and pagination.  
+🛠️ Django, vanilla JS, Bootstrap.  
+🔧 Finalizing features, preparing for deployment.
+
+## 💸 [BudgetTracker](https://github.com/hshaqour/budget_tracker)
+Personal finance tracker for visualizing income and expenses.  
+📊 Designing database and UI for daily use (Django, in development).
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
