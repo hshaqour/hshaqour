@@ -32,11 +32,6 @@ Mail is a deployed, full-stack Django web application that simulates a real-worl
 
 **Tech Stack:** Django, HTML, CSS, Bootstrap, JavaScript (vanilla), Render, Gunicorn, Whitenoise
 
-**Screenshots:**  
-<!-- Add your images like below when ready -->
-<!-- ![Inbox Screenshot](screenshots/inbox.png) -->
-<!-- ![Reading Email Screenshot](screenshots/read-email.png) -->
-
 ---
 
 ## 🌐 [Social Network](https://github.com/hshaqour/Social-Network)
