@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussain</h1>
-<h3 align="center">A software developer with an accounting background, currently pursuing a Master's in Computer Science @ CU Boulder 💻</h3>
+<h3 align="center"I'm a business-tech professional with a background in accounting and a passion for solving business problems using data and technology</h3>
 
 - 🔭 I’ve deployed my [Mail](https://github.com/hshaqour/Mail) project and am continuing to refine it alongside my [Social Network](https://github.com/hshaqour/Social-Network) app. Once those are polished, I’ll resume building [BudgetTracker](https://github.com/hshaqour/budget_tracker) (in progress).
 
