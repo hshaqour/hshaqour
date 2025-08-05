@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hussain</h1>
-<h3 align="center"I'm a business-tech professional with a background in accounting and a passion for solving business problems using data and technology</h3>
-
-- 🔭 I’ve deployed my [Mail](https://github.com/hshaqour/Mail) project and am continuing to refine it alongside my [Social Network](https://github.com/hshaqour/Social-Network) app. Once those are polished, I’ll resume building [BudgetTracker](https://github.com/hshaqour/budget_tracker) (in progress).
+<h3 align="center">I'm a business-tech professional with a background in accounting and a passion for solving business problems using data and technology.</h3>
 
 
+🔍 I’m transitioning into Business Analyst / Product Analyst / Data Analyst roles where I can apply my skills in analysis, process improvement, and technical implementation.
 
-- 🌱 Learning **Data Structures & Algorithms**, building strong fundamentals.
+🎓 Currently pursuing a Master's in Computer Science @ CU Boulder to deepen my technical foundation.
 
-- 👨‍💻 Explore my projects at [github.com/hshaqour](https://github.com/hshaqour)
+🧠 My projects focus on building tools that simulate real-world business workflows — such as email management systems, budgeting tools, and internal communication apps.
 
-- 💬 Ask me about: **breaking into tech from a non-CS background**, Python, Django, React, or finance!
-
-- 📫 Reach me at: **shaqourhussain@gmail.com**
+📊 I'm also building out data-driven projects using Python and SQL to extract insights, model business problems, and support decision-making.
 
 ---
 
@@ -34,10 +31,6 @@ Mail is a deployed, full-stack Django web application that simulates a real-worl
 
 ---
 
-## 🌐 [Social Network](https://github.com/hshaqour/Social-Network)
-A Twitter/X-style social platform with user posts, likes, followers, and pagination.  
-🛠️ Django, vanilla JS, Bootstrap.  
-🔧 Finalizing features, preparing for deployment.
 
 ## 💸 [BudgetTracker](https://github.com/hshaqour/budget_tracker)
 Personal finance tracker for visualizing income and expenses.  
